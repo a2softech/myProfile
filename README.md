@@ -1,12 +1,12 @@
-Aakash Pawar
-+91-7489646229
-a2kashpawar@gmail.com
+**Aakash Pawar** <br>
++91-7489646229<br>
+a2kashpawar@gmail.com<br>
 https://www.linkedin.com/in/a2kash
 
-Summery
+**Summery**<br>
 	Seeking a challenging assignment in Produciton Support of a leading Software firm. Presently more than 6 years of experience in Infosys Ltd. as a Production Support Analyst. I have been part of Apple's Production Support team for the past 6 years, supporting mutitude of applications through the span. I have excellent debugging skills and I amvery good at being calm while taking complicated issues to closure. I have managed support team more than 20 SMEs. 
 
-Skills
+**Skills** <br>
 	Core Programming Languages: Java, C, C++.
 	Java Advanced: Servlets, JSP, Java Beans, EJB.
 	Scripting Languages: Java Script, UNIX, Python
@@ -21,7 +21,7 @@ Skills
 	Learnt basic commands of Unix Operating System and shell scripting.
 	Attended personal Skills development sessions and learnt interpersonal communication skills.
 
-Experience
+**Experience** <br>
 	Systems Engineer - Trainee								Feb 2011 to Jul 2011
 	Infosys Limited, - Bengalore, Karnataka
 		Trained in basic Computer technology in Infosys Leadership Institute at Mysore
